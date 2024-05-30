@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #CCD3CA
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #eeedeb;
+    margin: 20px auto;
+    height: 75px;
+    border-radius: 15px;
+}
+
+.logo {
+    padding-left: 20px;
+}
+
+.logo img {
+    width: 80px;
+    height: auto;
+}
+
+    .logo img:hover {
+        transform: scale(1.1);
+        transition: .3s;
+    }
+
+    nav {
+    }
+
+    nav ul {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+        padding-right: 20px;
+    }
+
+    nav ul li {
+        list-style: none;
+    }
+
+    nav ul li a {
+        text-decoration: none;
+        color: #8CB9BD  ;
+    }
+
+    nav ul li a:hover {
+        text-decoration: underline  ;
+        text-underline-offset: 12px;
+        color: ;
+        transform: scale(1.3);
+        transition: 3s;
+    }
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 95%;
+        margin: 0 auto
+        border: 1px solid orangered;
+    }
+.text-hero{
+    padding-left: 30px;
+    color:;
+}
+
+.img-hero img{
+    width: 80%;
+    border:6px solid orangered;
+}
+.img-hero img: hover{
+    transform: scale(.8);
+    transition: .3s;
+}
+body {
+    
+}
+
+
+#product {
+    width: 90%;
+    margin: 40px auto
+}
+
+#product h1{
+    color:#8CB9BD ;
+}
+
+
+#product-card {
+    width: 90%;
+    border: 1px solid orangered
+    margin:20px auto;
+    display: flex;
+    align-items:center;
+    justify-content:space-between
+    flex-warp: warp;
+}
+
+.card1 {
+    width: 250px;
+    text-align: center;
+    border: 1px solid orangered;
+    padding: 20px;
+    background color: antiquewhite;
+}
+
+.card1 img {
+    width: 100%;
+
+}
+
+.card1 {
+    padding: 10px 20px;
+    background color: #4f2000;
+    color: whitesmoke
+    text-decoration: none;
+    border-radius: 30px 0;
+}
+
+.card1 img {
+    width: 100%;
+    border-radius: 20px 0;
+}
+
+.card1 img:hover{
+    transform: scale(.9);
+    transition: 
+}
+.card1 a{
+    padding: 10px 20px;
+    background-color: #4f2000
+
+
+}
+
+.card1 a:hover {
+    background color: whitesmoke;
+    color: #4f2000
+}
+
+
+
+
+
+
